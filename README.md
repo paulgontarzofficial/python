@@ -98,7 +98,7 @@ Feel free to open an issue or submit a pull request if you have any suggestions 
 
   
 
-I've included a separate [`resources.md`](./resources.md) file with links to tutorials, documentation, and courses that I've found particularly helpful.
+I've included a separate [`resources.md`](resources.md) file with links to tutorials, documentation, and courses that I've found particularly helpful.
 
   
 
