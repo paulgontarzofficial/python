@@ -11,6 +11,7 @@ REPL is a python interactive shell
 - Evaluate: Python then evaluates / processes the command.
 - Print: Prints the result to the screen.
 - Loop: Starts the process over again. 
+
 ## Creating a Variable
 
 - In this example, you have the variable name that is on the left, followed by an assignment operator, followed by a value that you want to specify.  
